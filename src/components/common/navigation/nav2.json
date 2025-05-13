@@ -1,0 +1,30 @@
+[
+    {
+        "index": 0,
+        "path": "/search/1",
+        "label" : "전체",
+        "searchValue": "1",
+        "isActive": false
+    },
+    {
+        "index": 1,
+        "path": "/search/2",
+        "label" : "대표카드",
+        "searchValue": "2",
+        "isActive": false
+    },
+    {
+        "index": 2,
+        "path": "/search/3",
+        "label" : "할인적립",
+        "searchValue": "3",
+        "isActive": false
+    },
+    {
+        "index": 3,
+        "path": "/search/4",
+        "label" : "화물복지",
+        "searchValue": "4",
+        "isActive": false
+    }    
+]
