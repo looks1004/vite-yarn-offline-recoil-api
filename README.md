@@ -77,4 +77,4 @@ yarn install --offline
 vdi에 yarn 설치할 필요 없이 
 압축 풀어서 바로 yarn dev  실행하여 확인하면 됨 
 
-
+~~
