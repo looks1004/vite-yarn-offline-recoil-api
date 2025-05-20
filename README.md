@@ -78,3 +78,23 @@ vdi에 yarn 설치할 필요 없이
 압축 풀어서 바로 yarn dev  실행하여 확인하면 됨 
 
 ~~
+
+
+
+==25.05.20
+1. 탐색기에 새로운 폴더 생성
+2. cmd 열어서 위 폴더에서 git --version 으로 확인
+3. cmd ....  git clone github 주소 입력
+4. cmd .... 해당 디렉토리로 이동
+5. 탐색기에서 원하는 소스를 해당 디렉토리에 복사한다 readme 파일은 덮어쓰기 한다
+6. cmd 에서 git status 로 origin/main 인지 확인하고 변경된 빨간색 파일목록을 확인한다
+7. cmd 에서 git add*
+8. cmd 에서 git commit -m "first commit 25.05.13"
+9. git push orgin main
+
+
+
+==============
+
+git config user.email "your_email@example.com"
+git config user.name "Your Name"
