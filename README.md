@@ -79,6 +79,8 @@ vdi에 yarn 설치할 필요 없이
 
 ~~
 
+--Recoil  (React 19부터 recoil을 지원하지 않음 )
+https://www.youtube.com/watch?v=Yv5tSNr4h2c
 
 
 ==25.05.20
